@@ -24,4 +24,7 @@ button {
 
 button:hover {
   background-color: cornflowerblue;
+  transition: all 1s ease-out;
+  font: 'Josefin Sans' , san-serif;
+  color:ghostwhite;
 }
